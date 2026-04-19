@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Amandeep!%20%F0%9F%91%8B&fontSize=50&animation=fadeIn&fontAlignY=35&desc=CSE%20Student%20|%20Aspiring%20Data%20Scientist%20%26%20ML%20Engineer&descAlignY=55&descSize=20"/>
+  <a href="https://github.com/amandeep-singh28">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=3776AB&center=true&vCenter=true&width=800&height=100&lines=Hi%2C+I'm+Amandeep!+;Data+Science+%26+ML+Enthusiast" alt="Typing SVG" />
+  </a>
 
   <p align="center">
     <a href="https://linkedin.com/in/amandeep-singh-323199299">
