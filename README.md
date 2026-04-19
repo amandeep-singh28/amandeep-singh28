@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/amandeep-singh28">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&pause=1000&color=3776AB&center=true&vCenter=true&width=800&height=80&lines=Hi+there,+I'm+Amandeep+Singh+👋;Data+Science+Enthusiast+%26+ML+Engineer;Turning+Raw+Data+into+Actionable+Insights!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=38&pause=1000&color=3776AB&center=true&vCenter=true&width=800&height=80&lines=Hi+I'm+Amandeep+Singh;Data+Science+Enthusiast;Turning+Data+into+Insights" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -104,12 +104,7 @@
   </tr>
 </table>
 
-<h3 align="center">🏆 GitHub Trophies</h3>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amandeep-singh28&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-</div>
 
-<br>
 
 <div align="center">
   <i>"In God we trust, all others must bring data." – W. Edwards Deming</i>
