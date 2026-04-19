@@ -61,9 +61,11 @@
 | 📌 Project | 📝 Description | 🚀 Tech Stack |
 |:---|:---|:---|
 | 🎬 **[Trending Movies Analytics & Prediction](https://github.com/amandeep-singh28/Trending-Movies-Data-Analysis-and-Popularity-Prediction)** | An end-to-end data analytics workflow analyzing Netflix trends, powering interactive dashboards, and predicting content popularity using Decision Tree Classification. | `Python` `MySQL` `Power BI` `Scikit-Learn` |
-| 🏦 **[Bank Customer Churn Model](https://github.com/amandeep-singh28/Bank-Customer-Churn)** | A robust ML framework demonstrating scalable feature engineering, handling data imbalances, and tuning 13+ boosting algorithms to preemptively predict customer churn. | `Python` `Pandas` `Matplotlib` `Ensemble Methods` |
+| 🏦 **[Bank Customer Churn Model](https://github.com/amandeep-singh28/Bank-Customer-Churn)** | A robust ML framework demonstrating scalable feature engineering, handling data imbalances, and tuning 13+ boosting algorithms to preemptively predict customer churn. | `Python` `Pandas` `Matplotlib` `Ensemble Algorithms` |
 | 🌍 **[Air Pollution Dashboard](https://github.com/amandeep-singh28/-Air-Pollution-Analytics-Visualization-Dashboard)** | A fully interactive Power BI Air Quality report utilizing a functional star-schema model, dynamic AQI classification logic, and advanced geographic mapping. | `Power BI` `Data Modeling` `DAX` |
+| 🎮 **[GameVerse Analytics](https://github.com/amandeep-singh28/GameVerse-Analytics)** | End-to-end global video game sales analysis featuring interactive dashboards, region-wise comparisons, platform trends, and critic score evaluations. | `Excel` `Pivot Tables` `Data Analysis` |
 | 📊 **[SQLytics Sales Dashboard](https://github.com/amandeep-singh28/SQLytics-Sales-Dashboard)** | A live business analytics dashboard featuring interactive slicers and SQL-driven KPIs generated via an ODBC connection to query superstore scalability metrics. | `Python` `MySQL` `Excel` `Power Pivot` |
+| 🗺️ **[Demographics Insight & Geographic Analysis](https://github.com/amandeep-singh28/Demographic-and-Geographical-Analysis-of-Regional-Areas)** | An exploratory data analysis project examining population distribution via statistical testing, outlier detection, and visual mapping. | `Python` `Seaborn` `Statsmodels` |
 
 *👉 Explore more projects, including Web Frameworks and Data Structures, in my [Repositories](https://github.com/amandeep-singh28?tab=repositories).*
 
