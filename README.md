@@ -25,16 +25,16 @@
     <td width="60%">
       <h3>👨‍💻 About Me</h3>
       <ul>
-        <li>🎓 <b>CSE Student</b> with a profound passion for continuous learning in <b>Data Science, Analytics, and AI</b>.</li>
-        <li>💡 Actively exploring predictive algorithms, advanced visualizations, and scalable <b>End-to-End ML Pipelines</b>.</li>
-        <li>🌱 Participating in the <b>100 Days of Machine Learning</b> initiative, mastering <b>NLP</b> and <b>Deep Learning</b>.</li>
-        <li>💻 Consistently practicing <b>Data Structures & Algorithms</b>, honing logical problem solving via <b>LeetCode</b>.</li>
-        <li>🚀 Driven to solve complex business queries, mitigate risk, and engineer high-impact <b>Data Systems</b>.</li>
+        <li>🎓 <b>CSE Student</b> with a deep-rooted passion for <b>Data Science, Analytics, and AI</b>.</li>
+        <li>💡 Currently exploring predictive algorithms, advanced visualizations, and scalable <b>End-to-End ML Pipelines</b>.</li>
+        <li>🌱 Actively participating in the <b>100 Days of Machine Learning</b> initiative, diving into NLP and Deep Learning.</li>
+        <li>💻 Consistently practicing <b>Data Structures & Algorithms</b> and honing algorithmic thinking through LeetCode (in <b>Java</b>).</li>
+        <li>🚀 Driven to solve complex business problems, mitigate risks, and engineer data systems that create real impact.</li>
       </ul>
     </td>
     <td width="40%" align="center">
       <h3>🚀 Learning Path</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandeep-singh28&layout=donut&theme=radical&hide_border=true&bg_color=transparent" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandeep-singh28&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -96,10 +96,10 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=amandeep-singh28&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=transparent" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=amandeep-singh28&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=amandeep-singh28&theme=radical&hide_border=true&background=transparent" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=amandeep-singh28&theme=radical&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
