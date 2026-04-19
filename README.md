@@ -25,11 +25,11 @@
     <td width="60%">
       <h3>👨‍💻 About Me</h3>
       <ul>
-        <li>🎓 <b>CSE Student</b> with a deep-rooted passion for <b>Data Science, Analytics, and AI</b>.</li>
-        <li>💡 Currently exploring predictive algorithms, advanced visualizations, and scalable <b>End-to-End ML Pipelines</b>.</li>
-        <li>🌱 Actively participating in the <b>100 Days of Machine Learning</b> initiative, diving into NLP and Deep Learning.</li>
-        <li>💻 Consistently practicing <b>Data Structures & Algorithms</b> and honing algorithmic thinking through LeetCode (in <b>Java</b>).</li>
-        <li>🚀 Driven to solve complex business problems, mitigate risks, and engineer data systems that create real impact.</li>
+        <li>🎓 <b>CSE Student</b> with a deep-rooted passion for continuous learning in <b><a title="View my repositories" href="https://github.com/amandeep-singh28?tab=repositories">Data Science, Analytics, and AI</a></b>.</li>
+        <li>💡 Currently exploring predictive algorithms, advanced visualizations, and scalable <b><a title="View Customer Churn project" href="https://github.com/amandeep-singh28/Bank-Customer-Churn">End-to-End ML Pipelines</a></b>.</li>
+        <li>🌱 Actively participating in the <b><a title="View Machine Learning practice" href="https://github.com/amandeep-singh28/100-Days-of-Machine-Learning---CampusX">100 Days of Machine Learning</a></b> initiative, mastering <code>NLP</code> & <code>Deep Learning</code>.</li>
+        <li>💻 Consistently practicing <b><a title="View DSA & LeetCode tracking" href="https://github.com/amandeep-singh28/DSA">Data Structures & Algorithms</a></b>, honing logical problem solving through <b>LeetCode</b>.</li>
+        <li>🚀 Driven to solve complex business queries, mitigate potential risks, and engineer <b><a title="View Movies Analytics project" href="https://github.com/amandeep-singh28/Trending-Movies-Data-Analysis-and-Popularity-Prediction">high-impact data systems</a></b>.</li>
       </ul>
     </td>
     <td width="40%" align="center">
