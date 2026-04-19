@@ -19,6 +19,7 @@
 - 🎓 **CSE Student** with a deep passion for **Data Science**, **Machine Learning**, and **Data Analytics**.
 - 💡 Currently focused on exploring predictive algorithms, advanced data visualizations, and building end-to-end ML pipelines.
 - 🌱 Actively participating in the **100 Days of Machine Learning** initiative and expanding my knowledge of Deep Learning and NLP applications.
+- 💻 Consistently practicing **Data Structures & Algorithms** and honing my problem-solving skills through LeetCode (in **Java**).
 - 🚀 Highly interested in solving complex, real-world problems and extracting actionable business insights from raw data.
 - 🤝 Always open to discussing data-driven technologies or collaborating on impactful open-source projects!
 
@@ -66,6 +67,7 @@
 | 🎮 **[GameVerse Analytics](https://github.com/amandeep-singh28/GameVerse-Analytics)** | End-to-end global video game sales analysis featuring interactive dashboards, region-wise comparisons, platform trends, and critic score evaluations. | `Excel` `Pivot Tables` `Data Analysis` |
 | 📊 **[SQLytics Sales Dashboard](https://github.com/amandeep-singh28/SQLytics-Sales-Dashboard)** | A live business analytics dashboard featuring interactive slicers and SQL-driven KPIs generated via an ODBC connection to query superstore scalability metrics. | `Python` `MySQL` `Excel` `Power Pivot` |
 | 🗺️ **[Demographics Insight & Geographic Analysis](https://github.com/amandeep-singh28/Demographic-and-Geographical-Analysis-of-Regional-Areas)** | An exploratory data analysis project examining population distribution via statistical testing, outlier detection, and visual mapping. | `Python` `Seaborn` `Statsmodels` |
+| 🧩 **[Data Structures & Algorithms (DSA)](https://github.com/amandeep-singh28/DSA)** | An active repository documenting my coding journey, optimized solutions, and continuous problem-solving practice (LeetCode) using Java. | `Java` `Algorithms` `Problem Solving` |
 
 *👉 Explore more projects, including Web Frameworks and Data Structures, in my [Repositories](https://github.com/amandeep-singh28?tab=repositories).*
 
