@@ -25,16 +25,16 @@
     <td width="60%">
       <h3>👨‍💻 About Me</h3>
       <ul>
-        <li>🎓 <b>CSE Student</b> with a deep-rooted passion for continuous learning in <b><a title="View my repositories" href="https://github.com/amandeep-singh28?tab=repositories">Data Science, Analytics, and AI</a></b>.</li>
-        <li>💡 Currently exploring predictive algorithms, advanced visualizations, and scalable <b><a title="View Customer Churn project" href="https://github.com/amandeep-singh28/Bank-Customer-Churn">End-to-End ML Pipelines</a></b>.</li>
-        <li>🌱 Actively participating in the <b><a title="View Machine Learning practice" href="https://github.com/amandeep-singh28/100-Days-of-Machine-Learning---CampusX">100 Days of Machine Learning</a></b> initiative, mastering <code>NLP</code> & <code>Deep Learning</code>.</li>
-        <li>💻 Consistently practicing <b><a title="View DSA & LeetCode tracking" href="https://github.com/amandeep-singh28/DSA">Data Structures & Algorithms</a></b>, honing logical problem solving through <b>LeetCode</b>.</li>
-        <li>🚀 Driven to solve complex business queries, mitigate potential risks, and engineer <b><a title="View Movies Analytics project" href="https://github.com/amandeep-singh28/Trending-Movies-Data-Analysis-and-Popularity-Prediction">high-impact data systems</a></b>.</li>
+        <li>🎓 <b>CSE Student</b> with a profound passion for continuous learning in <b>Data Science, Analytics, and AI</b>.</li>
+        <li>💡 Actively exploring predictive algorithms, advanced visualizations, and scalable <b>End-to-End ML Pipelines</b>.</li>
+        <li>🌱 Participating in the <b>100 Days of Machine Learning</b> initiative, mastering <b>NLP</b> and <b>Deep Learning</b>.</li>
+        <li>💻 Consistently practicing <b>Data Structures & Algorithms</b>, honing logical problem solving via <b>LeetCode</b>.</li>
+        <li>🚀 Driven to solve complex business queries, mitigate risk, and engineer high-impact <b>Data Systems</b>.</li>
       </ul>
     </td>
     <td width="40%" align="center">
       <h3>🚀 Learning Path</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandeep-singh28&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandeep-singh28&layout=donut&theme=radical&hide_border=true&bg_color=transparent" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -96,10 +96,10 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=amandeep-singh28&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=amandeep-singh28&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=transparent" alt="GitHub Stats" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=amandeep-singh28&theme=radical&hide_border=true" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=amandeep-singh28&theme=radical&hide_border=true&background=transparent" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
