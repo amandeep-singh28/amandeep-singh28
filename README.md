@@ -34,7 +34,7 @@
     </td>
     <td width="40%" align="center">
       <h3>🚀 Learning Path</h3>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandeep-singh28&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+      <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=amandeep-singh28&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
     </td>
   </tr>
 </table>
@@ -96,15 +96,13 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=amandeep-singh28&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.shion.dev/api?username=amandeep-singh28&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     </td>
     <td width="50%" align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=amandeep-singh28&theme=radical&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
-
-
 
 <div align="center">
   <i>"In God we trust, all others must bring data." – W. Edwards Deming</i>
