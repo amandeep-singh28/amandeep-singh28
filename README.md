@@ -23,7 +23,7 @@
 <table align="center" width="100%">
   <tr>
     <td width="60%">
-      <h3>👨‍💻 About Me</h3>
+      <h3>👨💻 About Me</h3>
       <ul>
         <li>🎓 <b>CSE Student</b> with a deep-rooted passion for <b>Data Science, Analytics, and AI</b>.</li>
         <li>💡 Currently exploring predictive algorithms, advanced visualizations, and scalable <b>End-to-End ML Pipelines</b>.</li>
@@ -52,7 +52,9 @@
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
       <img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white" /><br>
       <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" /><br>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />
+      <img src="https://img.shields.io/badge/Seaborn-11557c?style=flat-square&logo=python&logoColor=white" />
     </td>
     <td align="center" width="33%">
       <h3>📊 Business Intelligence</h3>
@@ -81,6 +83,7 @@
 
 | 📌 Project | 📝 Description | 🚀 Core Tech |
 |:---|:---|:---|
+| 🎫 **[Customer Support Ticket Classification (NLP)](https://github.com/amandeep-singh28/Customer-Support-Ticket-Classification-NLP)** | End-to-end NLP project for customer support ticket classification using **TF-IDF**, machine learning model comparison, **Logistic Regression**, and **Streamlit** deployment. | `Python` `Scikit-Learn` `NLP` `Streamlit` |
 | 🎬 **[Trending Movies Analytics & Prediction](https://github.com/amandeep-singh28/Trending-Movies-Data-Analysis-and-Popularity-Prediction)** | Engineered an analytics workflow analyzing Netflix trends, powering interactive dashboards, and predicting content popularity using **Decision Tree Classification**. | `Python` `MySQL` `Power BI` `Scikit-Learn` |
 | 🏦 **[Bank Customer Churn Model](https://github.com/amandeep-singh28/Bank-Customer-Churn)** | A robust ML framework demonstrating scalable feature engineering, handling data imbalances, and tuning **13+ boosting algorithms** to preemptively predict customer churn. | `Pandas` `Matplotlib` `Ensemble Algorithms` |
 | 🌍 **[Air Pollution Analytics Dashboard](https://github.com/amandeep-singh28/-Air-Pollution-Analytics-Visualization-Dashboard)** | Fully interactive Power BI Air Quality report utilizing a functional **star-schema model**, dynamic AQI classification logic, and advanced geographic mapping. | `Power BI` `Data Modeling` `DAX` |
