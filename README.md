@@ -1,6 +1,6 @@
 <h1 align="center">
   <a href="https://github.com/amandeep-singh28">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&pause=1000&color=3776AB&center=true&vCenter=true&width=800&height=80&lines=Hi+I'm+Amandeep+Singh;Data+Science+%26+Generative+AI+Enthusiast;Building+Data-Driven+%26+AI+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=36&pause=1000&color=3776AB&center=true&vCenter=true&width=800&height=80&lines=Hi+I'm+Amandeep+Singh;Data+Science+%26+Generative+AI+Enthusiast" alt="Typing SVG" />
   </a>
 </h1>
 
