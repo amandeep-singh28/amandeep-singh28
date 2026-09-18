@@ -101,7 +101,7 @@
       <img src="https://github-readme-stats.shion.dev/api?username=amandeep-singh28&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=amandeep-singh28&theme=radical&hide_border=true" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com/?user=amandeep-singh28&theme=radical&hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
